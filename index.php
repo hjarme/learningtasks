@@ -7,4 +7,8 @@
         <h1>Welcome to My Website! I am Hershey L. Jarme!<h1>
         <ul>
             <li><a href="index.php">HOME</a></li>
-            <li><a href="/LT2/index.html">LEARNING TASK 2
+            <li><a href="/LT2/index.html">LEARNING TASK 2</a></li>
+                
+</ul>
+   </body>
+</html>
