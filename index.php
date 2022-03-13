@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head>
-<link rel="stylesheet" href="stylesheet.css">
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
+     <head>
+       <title>My Home Page</title>
+     </head>
+     <body>
+       <h1> Welcome to My Website! I am Hershey L. Jarme :)</h1>
+       <ul>
+            <li><a href="index.php">HOME</a></li>
+            <li><a href="/LT2/index.html">LEARNING TASK 2</a></li>
+            <li><a href="/LT3/index.html">LEARNING TASK 3</a></li>
+       </ul>
+       </body>
+    
 </html>
