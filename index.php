@@ -80,6 +80,47 @@
                           <p style="color:rgba(241, 247, 226, .70)">Dr. Hank Pym discovers a liquid that evaporates into gas and changes the size of a man into that of an insect. Michael Douglas stars as Py Paul Rudd plays his protégé Scott Lang.</p> </div>
         
         </body>
+        Body{
+    background-image: url(background.jpg);
+    Background-repeat: no-repeat;
+    Background-position: cover;
+    background-size: cover;
+    align-content: center;
+    color:rgba(241, 247, 226, .70);
+    font-family: "Arial, Helvetica, sans-serif;
+}
+
+
+#wrapper{
+    width: 1080px;
+    min-height: 1000;
+    margin: 0 auto; 
+}
+
+#box-one, #box-two, #box-three, #box-four, #box-five, #box-six, #box-seven, #box-eight, #box-nine, #box-ten{
+    width: 180;
+    height: 400px;
+    padding: 10px;
+    border: 2px solid #202B30;
+    margin: 4px;
+    float: left;
+    
+    
+
+   
+}
+
+#box-one, #box-two, #box-three, #box-four, #box-five, #box-six, #box-seven, #box-eight, #box-nine, #box-ten{
+    background-color: rgba(22, 25, 59, .70);
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+    
+}
 
 
 
