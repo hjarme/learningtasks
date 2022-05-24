@@ -1,0 +1,162 @@
+body{
+    background-image: url(sea.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    opacity: .80px;
+}
+h1{
+    text-align: center;
+}
+#wrapper{
+    width: 1024px;
+    min-height: 700px auto;
+    margin-left: auto;
+    margin-right: auto;
+
+   
+    
+}
+#spongebob{
+    width: 180px;
+    height: 230px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+#patrick{
+    width: 150px;
+    height: 255px;
+    margin-left: 45px;
+    margin-right: 10px;
+}
+#sandy{
+    width: 200px;
+    height: 265px;
+    margin-left: 30px;
+    margin-right: 10px
+}
+#plankton{
+    width: 150px;
+    height: 255px;
+    margin-left: 45px;
+    margin-right: 10px;
+}
+#mrkrabs{
+    width: 190px;
+    height: 280px;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+#pearlkrabs{
+    width: 145px;
+    height: 250px;
+    margin-left: 50px;
+    margin-right: 10px;
+     margin-top: 10px;
+}
+#mrspuff{
+    width: 175px;
+    height: 255px;
+    margin-left: 45px;
+    margin-right: 10px;
+}
+#squidward{
+    width: 210px;
+    height: 255px;
+    margin-left: 35px;
+    margin-right: 10px;
+}
+#gary{
+    width: 200px;
+    height: 230px;
+    margin-left: 50px;
+    margin-right: 5px;
+}
+img{
+    width: 600px;
+    height: 350px;
+    
+    
+}
+div[id^='block-'] {
+   width: 250px;
+    height: 250px;
+    margin: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 10px;
+    display: block;
+    float: left;
+    border: 3px solid #FFF64D;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+#spongebobtalk{
+    position: absolute;
+    top: 220px;
+    left: 385px;
+    display: none;
+    
+}
+#patricktalk{
+    position: absolute;
+    top: 250px;
+    left: 735px;
+    display: none;
+}
+#sandytalk{
+    position: absolute;
+    top: 220px;
+    left: 1000px;
+    display: none;
+}
+#planktontalk{
+    position: absolute;
+    top: 620px;
+    left: 435px;
+    display: none;
+}
+#mrkrabstalk{
+    position: absolute;
+    top: 620px;
+    left: 735px;
+    display: none;
+}
+#pearlkrabstalk{
+    position: absolute;
+    top: 620px;
+    left:  1000px;
+    display: none;
+}
+
+#mrspufftalk{
+     position: absolute;
+    top: 220px;
+    left: 385px;
+    display: none;
+    
+}
+#squidwardtalk{
+    position: absolute;
+    top: 880px;
+    left: 735px;
+    display: none;
+}
+#garytalk{
+    position: absolute;
+    top: 880px;
+    left: 735px;
+    display: none;
+}
+.bubble {
+    font-family: 'Fredoka One', cursive;
+    height: 200px auto;
+  	width: 300px;
+  	background-color:lightblue;
+  	border-radius: 20px;
+    padding: 20px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    font color: lightblue;
